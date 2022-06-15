@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SalveApp.DAL\SalveApp.DAL.csproj" />
+    <ProjectReference Include="..\SalveApp.Infrastructure\SalveApp.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
